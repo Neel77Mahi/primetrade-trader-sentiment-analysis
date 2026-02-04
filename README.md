@@ -60,7 +60,7 @@ Three behavioral trader archetypes were identified using KMeans clustering:
 
 --------------------------------------------------
 
-STREAMLIT DASHBOARD
+## STREAMLIT DASHBOARD
 
 A lightweight interactive dashboard was built using Streamlit to visualize trader performance and behavioral patterns across market sentiment regimes.
 
@@ -82,6 +82,11 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 3. Upload merged dataset CSV exported from notebook.
+
+--------------------------------------------------
+
+## Dashboard Preview:
+![Dashboard Preview](outputs/charts/dashboard_preview.png)
 
 --------------------------------------------------
 
@@ -111,6 +116,7 @@ outputs/charts/
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
 
