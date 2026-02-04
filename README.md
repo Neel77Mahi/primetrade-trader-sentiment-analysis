@@ -66,7 +66,7 @@ Three behavioral trader archetypes were identified using KMeans clustering:
 
 - Trading activity increases significantly during Fear markets, with more than 2.5x higher daily trade volume.
 
-- Average position size is substantially higher during Fear sentiment (~$7,182) compared to Greed (~$4,574), indicating aggressive risk exposure.
+- Average position size is substantially higher during Fear sentiment (7,182 USD) compared to Greed (4,574 USD), indicating aggressive risk exposure.
 
 - Infrequent traders consistently outperform frequent traders across both market conditions, highlighting the negative impact of overtrading.
 
@@ -134,6 +134,7 @@ outputs/charts/
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
 
