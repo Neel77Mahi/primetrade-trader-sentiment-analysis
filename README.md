@@ -60,6 +60,24 @@ Three behavioral trader archetypes were identified using KMeans clustering:
 
 --------------------------------------------------
 
+KEY INSIGHTS SUMMARY
+
+- Greed sentiment periods show higher average win rates (~42%) compared to Fear periods (~41%).
+
+- Trading activity increases significantly during Fear markets, with more than 2.5x higher daily trade volume.
+
+- Average position size is substantially higher during Fear sentiment (~$7,182) compared to Greed (~$4,574), indicating aggressive risk exposure.
+
+- Infrequent traders consistently outperform frequent traders across both market conditions, highlighting the negative impact of overtrading.
+
+- High exposure trades generate significantly higher profitability, especially during volatile Fear periods.
+
+- Long bias dominates during Fear markets, while Greed periods show increased short participation and two-sided trading behavior.
+
+- Clustering analysis identified three trader archetypes: High-Risk High-Reward Traders, Balanced Retail Traders, and High-Frequency Scalpers.
+
+--------------------------------------------------
+
 ## HOW TO RUN THE PROJECT
 
 1. Install dependencies:
@@ -116,6 +134,7 @@ outputs/charts/
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
 
