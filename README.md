@@ -60,6 +60,20 @@ Three behavioral trader archetypes were identified using KMeans clustering:
 
 --------------------------------------------------
 
+## HOW TO RUN THE PROJECT
+
+1. Install dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+2. Open the notebook:
+```bash
+Primetrade_Trader_Sentiment_Analysis.ipynb
+```
+3. Run all cells sequentially.
+
+--------------------------------------------------
+
 ## STREAMLIT DASHBOARD
 
 A lightweight interactive dashboard was built using Streamlit to visualize trader performance and behavioral patterns across market sentiment regimes.
@@ -90,20 +104,6 @@ python -m streamlit run app.py
 
 --------------------------------------------------
 
-## HOW TO RUN THE PROJECT
-
-1. Install dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-2. Open the notebook:
-```bash
-Primetrade_Trader_Sentiment_Analysis.ipynb
-```
-3. Run all cells sequentially.
-
---------------------------------------------------
-
 ## OUTPUT FILES
 
 All important charts and visualizations are stored inside:
@@ -116,6 +116,7 @@ outputs/charts/
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
 
