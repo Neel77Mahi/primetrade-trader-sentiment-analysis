@@ -12,7 +12,7 @@ Overall, this analysis provides data-driven insights and actionable strategy rec
 
 --------------------------------------------------
 
-OBJECTIVE
+## OBJECTIVE
 
 - Analyze trader performance differences across Fear and Greed market regimes  
 - Study behavioral changes such as trade frequency, position sizing, and directional bias  
@@ -21,14 +21,14 @@ OBJECTIVE
 
 --------------------------------------------------
 
-DATASETS USED
+## DATASETS USED
 
 1. Bitcoin Fear/Greed Index Dataset  
 2. Hyperliquid Historical Trading Dataset  
 
 --------------------------------------------------
 
-KEY ANALYSIS PERFORMED
+## KEY ANALYSIS PERFORMED
 
 DATA PREPARATION  
 - Timestamp conversion and daily alignment  
@@ -46,10 +46,6 @@ BEHAVIORAL INSIGHTS
 - Greed markets show balanced long and short positioning  
 - Infrequent traders outperform frequent traders across both sentiment regimes  
 
---------------------------------------------------
-
-BONUS ANALYSIS
-
 PREDICTIVE MODELING  
 A Random Forest classifier was trained to predict trade profitability using sentiment and behavioral features.  
 The model achieved approximately 92 percent accuracy as an exploratory benchmark.  
@@ -64,7 +60,7 @@ Three behavioral trader archetypes were identified using KMeans clustering:
 
 --------------------------------------------------
 
-HOW TO RUN THE PROJECT
+## HOW TO RUN THE PROJECT
 
 1. Install dependencies:
 
@@ -78,7 +74,7 @@ Primetrade_Trader_Sentiment_Analysis.ipynb
 
 --------------------------------------------------
 
-OUTPUT FILES
+## OUTPUT FILES
 
 All important charts and visualizations are stored inside:
 
@@ -90,4 +86,5 @@ AUTHOR
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
