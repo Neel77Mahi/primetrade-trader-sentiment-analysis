@@ -117,7 +117,7 @@ python -m streamlit run app.py
 
 --------------------------------------------------
 
-## Dashboard Preview:
+## Dashboard Preview
 ![Dashboard Preview](outputs/charts/dashboard_preview.png)
 
 --------------------------------------------------
@@ -134,6 +134,7 @@ outputs/charts/
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
 
