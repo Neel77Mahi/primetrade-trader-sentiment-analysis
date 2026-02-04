@@ -82,9 +82,10 @@ outputs/charts/
 
 --------------------------------------------------
 
-AUTHOR
+## AUTHOR
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
