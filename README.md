@@ -60,7 +60,7 @@ Three behavioral trader archetypes were identified using KMeans clustering:
 
 --------------------------------------------------
 
-KEY INSIGHTS SUMMARY
+## KEY INSIGHTS SUMMARY
 
 - Greed sentiment periods show higher average win rates (~42%) compared to Fear periods (~41%).
 
@@ -134,6 +134,7 @@ outputs/charts/
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
 
