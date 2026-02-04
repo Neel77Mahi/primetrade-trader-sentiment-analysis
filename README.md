@@ -60,6 +60,31 @@ Three behavioral trader archetypes were identified using KMeans clustering:
 
 --------------------------------------------------
 
+STREAMLIT DASHBOARD
+
+A lightweight interactive dashboard was built using Streamlit to visualize trader performance and behavioral patterns across market sentiment regimes.
+
+Dashboard Features:
+- Sentiment filter (Fear / Greed)
+- Win rate and trade volume KPIs
+- PnL distribution visualization
+- Trade frequency comparison
+- Long vs Short positioning analysis
+
+How to Run Locally:
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+2. Run dashboard:
+```bash
+python -m streamlit run app.py
+```
+3. Upload merged dataset CSV exported from notebook.
+
+--------------------------------------------------
+
 ## HOW TO RUN THE PROJECT
 
 1. Install dependencies:
@@ -86,6 +111,7 @@ outputs/charts/
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
 
 
 
