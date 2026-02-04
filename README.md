@@ -1,6 +1,14 @@
 # Trader Performance vs Market Sentiment Analysis
 
-This project analyzes the relationship between Bitcoin market sentiment (Fear/Greed Index) and trader behavior on Hyperliquid. The objective is to understand how sentiment impacts trading performance, risk exposure, and behavioral patterns, and to derive actionable trading insights.
+## Project Summary
+
+This project analyzes the relationship between Bitcoin market sentiment (Fear/Greed Index) and trader behavior on Hyperliquid to understand how sentiment regimes influence trading performance, risk exposure, and behavioral patterns.
+
+Key findings reveal that market sentiment significantly impacts trader activity and outcomes. Fear periods trigger aggressive trading behavior characterized by higher trade frequency and larger position sizes, while Greed periods exhibit improved win rates and more balanced long-short participation. Infrequent traders consistently outperform frequent traders, and high exposure trades generate substantially higher profitability across both sentiment regimes.
+
+In addition to behavioral analysis, a Random Forest classification model was developed to predict trade profitability using sentiment and behavioral features, achieving strong predictive performance as an exploratory benchmark. Furthermore, unsupervised clustering was applied to identify distinct trader archetypes, including high-risk high-reward traders, balanced retail traders, and high-frequency scalpers.
+
+Overall, this analysis provides data-driven insights and actionable strategy recommendations that adapt trading behavior and risk exposure based on prevailing market sentiment conditions.
 
 --------------------------------------------------
 
@@ -82,3 +90,4 @@ AUTHOR
 
 Neeladri Bandopadhyay  
 Data Science Internship Assignment Submission
+
